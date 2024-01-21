@@ -1,0 +1,151 @@
+
+#background{
+    
+    background-image: url(./netflix-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+
+h1{
+    text-align: center;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+
+h3{
+    text-align: center;
+}
+
+#container{    
+    text-align: center;
+    background-color: black;
+    width: 400px;
+    height: 700px;
+    opacity: 0.9;
+    position:absolute;
+    margin-left: 600px;
+   
+}    
+    
+    
+.std1{
+    width: 270px;
+    height: 25px;
+}
+.secim{
+    width: 280px;
+    height: 30px;
+}
+
+#submit{
+    background-color: red;
+    width: 100px;
+    height: 35px;
+    border-radius: 20px;
+}
+
+.std{
+    margin-right: 235px;
+    
+}
+.std2{
+    margin-right: 245px;
+}
+.std3{
+    margin-right: 235px;
+}
+.std4{
+    margin-right: 190px;
+
+}
+#container3{
+    text-align: center;
+    margin-left: -130px;
+}
+.son{
+    text-align: center;
+    
+    
+}
+.mtype{
+    margin-left: -70px;
+
+}
+
+.comedy1{
+    margin-right: 70px;
+}
+
+.action1{
+   margin-left: -78px;
+}
+.romance{
+    margin-left: -60px;
+}
+.gender{
+    margin-left: -92px;
+}
+.male{
+    margin-left: -85px;
+}
+.female{
+    margin-left: -69px;
+}
+.other{
+    margin-left: -78px;
+}
+span{
+    color: white;
+    
+}
+.yorum{
+    margin-right: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
